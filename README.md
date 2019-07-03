@@ -19,6 +19,7 @@ The data set is located [here](http://www.sqlitetutorial.net/sqlite-sample-datab
 * `playlists` & `playlist_track` tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.
 
 ## Basic Requirements
+Added all of my responses to the following prompts under the `basic` folder in this repository.
 ### Analyzing the Data
 - Which tracks appeared in the most playlists? how many playlist did they appear in?
 
@@ -37,4 +38,5 @@ The data set is located [here](http://www.sqlitetutorial.net/sqlite-sample-datab
 ### Advanced Challenge
 - How much revenue is generated each year, and what is its percent change 1 from the previous year?
 
-Completed in approx 4 hours.
+## Tools Used
+Mini project completed in four hours on Mac OS, using DB Browser for SQLite.
