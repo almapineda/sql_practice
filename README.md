@@ -31,9 +31,10 @@ The data set is located [here](http://www.sqlitetutorial.net/sqlite-sample-datab
 ## Additional Challenges
 ### Intermediate Challenge
 - Do longer or shorter length albums tend to generate more revenue?
+
 - Is the number of times a track appear in any playlist a good indicator of sales?
 
 ### Advanced Challenge
 - How much revenue is generated each year, and what is its percent change 1 from the previous year?
 
-Completed in $\approx$ 4 hours.
+Completed in $\sim$ 4 hours.
