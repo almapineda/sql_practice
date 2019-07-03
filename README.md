@@ -37,4 +37,4 @@ The data set is located [here](http://www.sqlitetutorial.net/sqlite-sample-datab
 ### Advanced Challenge
 - How much revenue is generated each year, and what is its percent change 1 from the previous year?
 
-Completed in $/sim$ 4 hours.
+Completed in approx 4 hours.
