@@ -33,8 +33,6 @@ Added all of my responses to the following prompts under the `basic` folder in t
 ### Intermediate Challenge
 - Do longer or shorter length albums tend to generate more revenue?
 
-- Is the number of times a track appear in any playlist a good indicator of sales?
-
 ### Advanced Challenge
 - How much revenue is generated each year, and what is its percent change 1 from the previous year?
 
